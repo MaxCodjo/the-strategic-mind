@@ -2,7 +2,7 @@
 
 **Where game theory meets psychology.** A dynamic, interactive website about game theory and the psychology of decision-making — the companion site for a YouTube + TikTok channel that makes strategy entertaining and educational.
 
-**Live site:** https://www.strategickminds.com/
+**Live site:** https://strategickminds.com/
 
 ## What's inside
 
